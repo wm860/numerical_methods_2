@@ -7,5 +7,6 @@ Po podaniu liczby punktów, które mają być wykorzystane do liczenia przybliż
 Wyniki dla 12 węzłów:
 ![2122](https://github.com/wm860/numerical_methods_2/assets/110788814/642a4b33-0606-495c-9cfe-23c6a02ea8f4)
 
+
 Wyniki dla 5 węzłów. W tym wypadku widać na wykresie spory rozdźwięk pomiędzy wynikami dokładnymi, a tymi uzyskanymi z interpolacji: 
 ![obraz](https://github.com/wm860/numerical_methods_2/assets/110788814/c0509147-b5ae-403f-b862-bddfbab30485)
