@@ -1,0 +1,16 @@
+﻿  main.cpp
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(50): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(99): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+f:\wojtek\studia\sem2\informatyka 2\lab4\lab4\main.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+  lab4.vcxproj -> F:\WOJTEK\STUDIA\SEM2\informatyka 2\lab4\Debug\lab4.exe

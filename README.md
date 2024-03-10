@@ -8,4 +8,5 @@ SPIS TREŚCI:
  - lab1 -> interpolacja wielomianowa lagrange'a
  - lab2 -> całkowanie numeryczne - metoda trapezowa i całka Simpsona
  - lab3 -> metody rozwiązywania równań nieliniowych
+ - lab4 -> rozwiązywanie równań różniczkowych zwyczajnych - metoda Eulera oraz Rungego-Kuty
 
