@@ -34,7 +34,7 @@ int main()
 		z[i] = exp(-t[i] * t[i]);
 	}
 
-	graphics(800,1000);
+	graphics(800,600);
 	circle(30,30,10);
 	scale(-2, -2, 2, 2);
 	for (int i = 0; i < 4*n-4 ; i++)
