@@ -4,3 +4,6 @@ Laboratoria były wykonywane przy użyciu IDE Microsoft Visual Studio. Z racji n
 - C/C++/general/SDL_checks -> NO
 - C/C++/language/conformance_mode -> NO
 
+SPIS TREŚCI:
+ - lab1 -> interpolacja wielomianowa lagrange'a
+
