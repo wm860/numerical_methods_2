@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\admin\desktop\informatyka 2\lab1\lab1\main.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+c:\users\admin\desktop\informatyka 2\lab1\lab1\main.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+  lab1.vcxproj -> C:\Users\Admin\Desktop\informatyka 2\lab1\Debug\lab1.exe
