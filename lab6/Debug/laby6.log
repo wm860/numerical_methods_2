@@ -1,0 +1,20 @@
+﻿  main.cpp
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(216): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(230): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(235): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(265): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(172): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+f:\wojtek\studia\sem2\informatyka 2\laby6\laby6\main.cpp(173): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  laby6.vcxproj -> F:\WOJTEK\STUDIA\SEM2\informatyka 2\laby6\Debug\laby6.exe
