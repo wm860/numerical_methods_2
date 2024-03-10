@@ -6,4 +6,5 @@ Laboratoria były wykonywane przy użyciu IDE Microsoft Visual Studio. Z racji n
 
 SPIS TREŚCI:
  - lab1 -> interpolacja wielomianowa lagrange'a
+ - lab2 -> całkowanie numeryczne - metoda trapezowa i całka Simpsona
 

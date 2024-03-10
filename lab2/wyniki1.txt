@@ -1,0 +1,4 @@
+calka numeryczna 1.612625
+calka analityczna 1.609438
+blad bezwzgledny przyblizenia 0.003187
+krok calkowania 20
